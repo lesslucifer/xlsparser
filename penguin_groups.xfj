@@ -1,0 +1,4216 @@
+{
+  "penguin_groups": {
+    "pen_1": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 3,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 30,
+          "feed": 5,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 80,
+          "feed": 7,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 10,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 250,
+          "feed": 14,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 390,
+          "feed": 18,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 570,
+          "feed": 23,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 800,
+          "feed": 28,
+          "time_spawn": 240,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1080,
+          "feed": 35,
+          "time_spawn": 240,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1430,
+          "feed": 42,
+          "time_spawn": 240,
+          "egg_kind": "Egg_3"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1850,
+          "feed": -1,
+          "time_spawn": 240,
+          "egg_kind": "Egg_3"
+        }
+      }
+    },
+    "pen_2": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 3,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 30,
+          "feed": 5,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 80,
+          "feed": 7,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 10,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 250,
+          "feed": 14,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 390,
+          "feed": 18,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 570,
+          "feed": 23,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 800,
+          "feed": 28,
+          "time_spawn": 240,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1080,
+          "feed": 35,
+          "time_spawn": 240,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1430,
+          "feed": 42,
+          "time_spawn": 240,
+          "egg_kind": "Egg_3"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1850,
+          "feed": -1,
+          "time_spawn": 240,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_3": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 3,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 30,
+          "feed": 5,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 80,
+          "feed": 7,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 10,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 250,
+          "feed": 14,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 390,
+          "feed": 18,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 570,
+          "feed": 23,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 800,
+          "feed": 28,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1080,
+          "feed": 35,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1430,
+          "feed": 42,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1850,
+          "feed": -1,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        }
+      }
+    },
+    "pen_4": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 3,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 30,
+          "feed": 5,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 80,
+          "feed": 7,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 10,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 250,
+          "feed": 14,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 390,
+          "feed": 18,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 570,
+          "feed": 23,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 800,
+          "feed": 28,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1080,
+          "feed": 35,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1430,
+          "feed": 42,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1850,
+          "feed": -1,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        }
+      }
+    },
+    "pen_5": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 3,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 30,
+          "feed": 5,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 80,
+          "feed": 7,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 10,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 250,
+          "feed": 14,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 390,
+          "feed": 18,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 570,
+          "feed": 23,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 800,
+          "feed": 28,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1080,
+          "feed": 35,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1430,
+          "feed": 42,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1850,
+          "feed": -1,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        }
+      }
+    },
+    "pen_6": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 3,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 30,
+          "feed": 5,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 80,
+          "feed": 7,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 10,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 250,
+          "feed": 14,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 390,
+          "feed": 18,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 570,
+          "feed": 23,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 800,
+          "feed": 28,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1080,
+          "feed": 35,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1430,
+          "feed": 42,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1850,
+          "feed": -1,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        }
+      }
+    },
+    "pen_7": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 3,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 30,
+          "feed": 5,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 80,
+          "feed": 7,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 10,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 250,
+          "feed": 14,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 390,
+          "feed": 18,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 570,
+          "feed": 23,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 800,
+          "feed": 28,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1080,
+          "feed": 35,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1430,
+          "feed": 42,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1850,
+          "feed": -1,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        }
+      }
+    },
+    "pen_8": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 3,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 30,
+          "feed": 5,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 80,
+          "feed": 7,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 10,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 250,
+          "feed": 14,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 390,
+          "feed": 18,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 570,
+          "feed": 23,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 800,
+          "feed": 28,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1080,
+          "feed": 35,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1430,
+          "feed": 42,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1850,
+          "feed": -1,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        }
+      }
+    },
+    "pen_9": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 3,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 30,
+          "feed": 5,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 80,
+          "feed": 7,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 10,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 250,
+          "feed": 14,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 390,
+          "feed": 18,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 570,
+          "feed": 23,
+          "time_spawn": 240,
+          "egg_kind": "Egg_0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 800,
+          "feed": 28,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1080,
+          "feed": 35,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1430,
+          "feed": 42,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1850,
+          "feed": -1,
+          "time_spawn": 240,
+          "egg_kind": "Egg_1"
+        }
+      }
+    },
+    "pen_10": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_11": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_12": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_13": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_14": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_15": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_16": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_17": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_18": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_19": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_20": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_21": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_22": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_23": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 6,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 60,
+          "feed": 9,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 150,
+          "feed": 13,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 280,
+          "feed": 18,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 460,
+          "feed": 26,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 720,
+          "feed": 33,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1050,
+          "feed": 42,
+          "time_spawn": 300,
+          "egg_kind": "Egg_1"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1470,
+          "feed": 51,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 1980,
+          "feed": 63,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2610,
+          "feed": 76,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3370,
+          "feed": -1,
+          "time_spawn": 300,
+          "egg_kind": "Egg_2"
+        }
+      }
+    },
+    "pen_24": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_25": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_26": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_27": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_28": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_29": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_30": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_31": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_32": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_33": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_34": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_35": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_36": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_37": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_38": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_39": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 10,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 100,
+          "feed": 17,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 270,
+          "feed": 23,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 500,
+          "feed": 33,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 830,
+          "feed": 46,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1290,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1880,
+          "feed": 75,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 2630,
+          "feed": 91,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 3540,
+          "feed": 114,
+          "time_spawn": 600,
+          "egg_kind": "Egg_3"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4680,
+          "feed": 137,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6050,
+          "feed": -1,
+          "time_spawn": 600,
+          "egg_kind": "Egg_4"
+        }
+      }
+    },
+    "pen_40": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 18,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 180,
+          "feed": 30,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 480,
+          "feed": 41,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 890,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1480,
+          "feed": 82,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 2300,
+          "feed": 105,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 3350,
+          "feed": 135,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4700,
+          "feed": 164,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6340,
+          "feed": 205,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 8390,
+          "feed": 245,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 10840,
+          "feed": -1,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        }
+      }
+    },
+    "pen_41": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 18,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 180,
+          "feed": 30,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 480,
+          "feed": 41,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 890,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1480,
+          "feed": 82,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 2300,
+          "feed": 105,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 3350,
+          "feed": 135,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4700,
+          "feed": 164,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6340,
+          "feed": 205,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 8390,
+          "feed": 245,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 10840,
+          "feed": -1,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        }
+      }
+    },
+    "pen_42": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 18,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 180,
+          "feed": 30,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 480,
+          "feed": 41,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 890,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1480,
+          "feed": 82,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 2300,
+          "feed": 105,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 3350,
+          "feed": 135,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4700,
+          "feed": 164,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6340,
+          "feed": 205,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 8390,
+          "feed": 245,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 10840,
+          "feed": -1,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        }
+      }
+    },
+    "pen_43": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 18,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 180,
+          "feed": 30,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 480,
+          "feed": 41,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 890,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1480,
+          "feed": 82,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 2300,
+          "feed": 105,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 3350,
+          "feed": 135,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4700,
+          "feed": 164,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6340,
+          "feed": 205,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 8390,
+          "feed": 245,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 10840,
+          "feed": -1,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        }
+      }
+    },
+    "pen_44": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 18,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 180,
+          "feed": 30,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 480,
+          "feed": 41,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 890,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1480,
+          "feed": 82,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 2300,
+          "feed": 105,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 3350,
+          "feed": 135,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4700,
+          "feed": 164,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6340,
+          "feed": 205,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 8390,
+          "feed": 245,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 10840,
+          "feed": -1,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        }
+      }
+    },
+    "pen_45": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 18,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 180,
+          "feed": 30,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 480,
+          "feed": 41,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 890,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1480,
+          "feed": 82,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 2300,
+          "feed": 105,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 3350,
+          "feed": 135,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4700,
+          "feed": 164,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6340,
+          "feed": 205,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 8390,
+          "feed": 245,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 10840,
+          "feed": -1,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        }
+      }
+    },
+    "pen_46": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 18,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 180,
+          "feed": 30,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 480,
+          "feed": 41,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 890,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1480,
+          "feed": 82,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 2300,
+          "feed": 105,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 3350,
+          "feed": 135,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4700,
+          "feed": 164,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6340,
+          "feed": 205,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 8390,
+          "feed": 245,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 10840,
+          "feed": -1,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        }
+      }
+    },
+    "pen_47": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 18,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 180,
+          "feed": 30,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 480,
+          "feed": 41,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 890,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1480,
+          "feed": 82,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 2300,
+          "feed": 105,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 3350,
+          "feed": 135,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4700,
+          "feed": 164,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6340,
+          "feed": 205,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 8390,
+          "feed": 245,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 10840,
+          "feed": -1,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        }
+      }
+    },
+    "pen_48": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 18,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 180,
+          "feed": 30,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 480,
+          "feed": 41,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 890,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1480,
+          "feed": 82,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 2300,
+          "feed": 105,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 3350,
+          "feed": 135,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4700,
+          "feed": 164,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6340,
+          "feed": 205,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 8390,
+          "feed": 245,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 10840,
+          "feed": -1,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        }
+      }
+    },
+    "pen_49": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 18,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 180,
+          "feed": 30,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 480,
+          "feed": 41,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 890,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1480,
+          "feed": 82,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 2300,
+          "feed": 105,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 3350,
+          "feed": 135,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4700,
+          "feed": 164,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6340,
+          "feed": 205,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 8390,
+          "feed": 245,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 10840,
+          "feed": -1,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        }
+      }
+    },
+    "pen_50": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 18,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 180,
+          "feed": 30,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 480,
+          "feed": 41,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 890,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1480,
+          "feed": 82,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 2300,
+          "feed": 105,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 3350,
+          "feed": 135,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4700,
+          "feed": 164,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6340,
+          "feed": 205,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 8390,
+          "feed": 245,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 10840,
+          "feed": -1,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        }
+      }
+    },
+    "pen_51": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 18,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 180,
+          "feed": 30,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 480,
+          "feed": 41,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 890,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1480,
+          "feed": 82,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 2300,
+          "feed": 105,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 3350,
+          "feed": 135,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4700,
+          "feed": 164,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6340,
+          "feed": 205,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 8390,
+          "feed": 245,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 10840,
+          "feed": -1,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        }
+      }
+    },
+    "pen_52": {
+      "levels": {
+        "0": {
+          "resClass": "PenguinsChild_1",
+          "exp": 0,
+          "feed": 18,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "1": {
+          "resClass": "PenguinsChild_1",
+          "exp": 180,
+          "feed": 30,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "2": {
+          "resClass": "PenguinsChild_1",
+          "exp": 480,
+          "feed": 41,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "3": {
+          "resClass": "PenguinsChild_1",
+          "exp": 890,
+          "feed": 59,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "4": {
+          "resClass": "PenguinsChild_2",
+          "exp": 1480,
+          "feed": 82,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "5": {
+          "resClass": "PenguinsChild_2",
+          "exp": 2300,
+          "feed": 105,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "6": {
+          "resClass": "PenguinsChild_2",
+          "exp": 3350,
+          "feed": 135,
+          "time_spawn": -1,
+          "egg_kind": "0"
+        },
+        "7": {
+          "resClass": "PenguinsChild_3",
+          "exp": 4700,
+          "feed": 164,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "8": {
+          "resClass": "PenguinsChild_3",
+          "exp": 6340,
+          "feed": 205,
+          "time_spawn": 900,
+          "egg_kind": "Egg_4"
+        },
+        "9": {
+          "resClass": "PenguinsChild_3",
+          "exp": 8390,
+          "feed": 245,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        },
+        "10": {
+          "resClass": "PenguinsChild_3",
+          "exp": 10840,
+          "feed": -1,
+          "time_spawn": 900,
+          "egg_kind": "Egg_5"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,576 @@
+{
+  "penguin_kinds": {
+    "pen_1": {
+      "resBucket": "Penguins_1.swf",
+      "kind": "pen_1",
+      "star": 1,
+      "name": "Than",
+      "description": "Dù bị chê vừa đen, vừa xấu nhưng sống là phải tự tin sải bước ¬_¬",
+      "display": {
+        "resBucket": "Penguins_1.swf",
+        "custom": {}
+      }
+    },
+    "pen_2": {
+      "resBucket": "Penguins_2.swf",
+      "kind": "pen_2",
+      "star": 1,
+      "name": "Vô Tư",
+      "description": "Sống rất bình thản, bao nhiêu cá trong hồ, Vô Tư đều có thể từ từ ăn hết",
+      "display": {
+        "resBucket": "Penguins_2.swf",
+        "custom": {}
+      }
+    },
+    "pen_3": {
+      "resBucket": "Penguins_24.swf",
+      "kind": "pen_3",
+      "star": 1,
+      "name": "Trong Trắng",
+      "description": "Được mời hát chung với Đan Trường, Cẩm Ly bài “Chim trắng mồ côi”",
+      "display": {
+        "resBucket": "Penguins_24.swf",
+        "custom": {}
+      }
+    },
+    "pen_4": {
+      "resBucket": "Penguins_11.swf",
+      "kind": "pen_4",
+      "star": 1,
+      "name": "Tỏa Nắng",
+      "description": "Lung linh, lung linh. Xinh như bong bóng. Óng như bóng đèn ^0^",
+      "display": {
+        "resBucket": "Penguins_11.swf",
+        "custom": {}
+      }
+    },
+    "pen_5": {
+      "resBucket": "Penguins_9.swf",
+      "kind": "pen_5",
+      "star": 1,
+      "name": "Nóng Nảy",
+      "description": "Coi gì coi. hông có thông tin gì ở đây hết á \u003e”\u003c",
+      "display": {
+        "resBucket": "Penguins_9.swf",
+        "custom": {}
+      }
+    },
+    "pen_6": {
+      "resBucket": "Penguins_22.swf",
+      "kind": "pen_6",
+      "star": 1,
+      "name": "Tím Biếc",
+      "description": "Hay mơ mộng, sống với những ước mơ và lý tưởng Y_Y",
+      "display": {
+        "resBucket": "Penguins_22.swf",
+        "custom": {}
+      }
+    },
+    "pen_7": {
+      "resBucket": "Penguins_12.swf",
+      "kind": "pen_7",
+      "star": 1,
+      "name": "Nước Biếc",
+      "description": "Thích đi bơi nhưng do bụng quá bự nên lúc nào cũng nổi ¬_¬",
+      "display": {
+        "resBucket": "Penguins_12.swf",
+        "custom": {}
+      }
+    },
+    "pen_8": {
+      "resBucket": "Penguins_33.swf",
+      "kind": "pen_8",
+      "star": 2,
+      "name": "Cầu Vồng",
+      "description": "Thích hỏi vu vơ nhưng được cái trả lời cũng vu vơ như khi hỏi ^o^",
+      "display": {
+        "resBucket": "Penguins_33.swf",
+        "custom": {}
+      }
+    },
+    "pen_9": {
+      "resBucket": "Penguins_7.swf",
+      "kind": "pen_9",
+      "star": 2,
+      "name": "Đầu Xù",
+      "description": "Nghệ thuật là sự táo bạo U_U và óc sáng tạo",
+      "display": {
+        "resBucket": "Penguins_7.swf",
+        "custom": {}
+      }
+    },
+    "pen_10": {
+      "resBucket": "Penguins_23.swf",
+      "kind": "pen_10",
+      "star": 2,
+      "name": "Giọt Nước",
+      "description": "Vui tính thích nói đùa T_T tội cái hông ai thấy vui hết. Cười ủng hộ đi.",
+      "display": {
+        "resBucket": "Penguins_23.swf",
+        "custom": {}
+      }
+    },
+    "pen_11": {
+      "resBucket": "Penguins_16.swf",
+      "kind": "pen_11",
+      "star": 2,
+      "name": "Điện Quang",
+      "description": "Nhà tạo mẫu tóc nổi tiếng tạo hình tóc nhanh và lạ ^o^",
+      "display": {
+        "resBucket": "Penguins_16.swf",
+        "custom": {}
+      }
+    },
+    "pen_12": {
+      "resBucket": "Penguins_13.swf",
+      "kind": "pen_12",
+      "star": 2,
+      "name": "M�y Xanh",
+      "description": "Vừa đẹp, vừa hiền, vừa dễ thương U_U",
+      "display": {
+        "resBucket": "Penguins_13.swf",
+        "custom": {}
+      }
+    },
+    "pen_13": {
+      "resBucket": "Penguins_18.swf",
+      "kind": "pen_13",
+      "star": 3,
+      "name": "Tr�i Tim",
+      "description": "Thương thầm “Than” nhưng hông dám nói \u003e”\u003c",
+      "display": {
+        "resBucket": "Penguins_18.swf",
+        "custom": {}
+      }
+    },
+    "pen_14": {
+      "resBucket": "Penguins_17.swf",
+      "kind": "pen_14",
+      "star": 2,
+      "name": "Lửa Đỏ",
+      "description": "Thường đốt lửa quanh mình để giảm mỡ, nhưng không thành công",
+      "display": {
+        "resBucket": "Penguins_17.swf",
+        "custom": {}
+      }
+    },
+    "pen_15": {
+      "resBucket": "Penguins_19.swf",
+      "kind": "pen_15",
+      "star": 2,
+      "name": "L� Xanh",
+      "description": "Tiên phong trong các hoạt động bảo vệ môi trường xanh, sạch, đẹp",
+      "display": {
+        "resBucket": "Penguins_19.swf",
+        "custom": {}
+      }
+    },
+    "pen_16": {
+      "resBucket": "Penguins_32.swf",
+      "kind": "pen_16",
+      "star": 2,
+      "name": "Chấm Bi",
+      "description": "Người mẫu đại điện cho nhãn hiệu thời trang “Penguin\u0027s Secret”",
+      "display": {
+        "resBucket": "Penguins_32.swf",
+        "custom": {}
+      }
+    },
+    "pen_17": {
+      "resBucket": "Penguins_15.swf",
+      "kind": "pen_17",
+      "star": 2,
+      "name": "Dưa Hấu",
+      "description": "Vô tình nuốt hết trái dưa hấu 1 lần nên giờ trông rất giống trái dưa",
+      "display": {
+        "resBucket": "Penguins_15.swf",
+        "custom": {}
+      }
+    },
+    "pen_18": {
+      "resBucket": "Penguins_14.swf",
+      "kind": "pen_18",
+      "star": 2,
+      "name": "Cỏ Ba Lá",
+      "description": "May mắn không tự tìm đến mà do bản thân cố gắn tìm “Cỏ Ba Lá”",
+      "display": {
+        "resBucket": "Penguins_14.swf",
+        "custom": {}
+      }
+    },
+    "pen_19": {
+      "resBucket": "Penguins_3.swf",
+      "kind": "pen_19",
+      "star": 2,
+      "name": "Rằn Ri",
+      "description": "họ “Ri”, Tên “Rằn” nhưng ra nước ngoài lại bị gọi là “Rằn Ri” ¬_¬",
+      "display": {
+        "resBucket": "Penguins_3.swf",
+        "custom": {}
+      }
+    },
+    "pen_20": {
+      "resBucket": "Penguins_34.swf",
+      "kind": "pen_20",
+      "star": 2,
+      "name": "Sọc Ngang",
+      "description": "Tuy xấu nhưng biết phấn đấu trở thành đầu gấu tương lai \u003e”\u003c",
+      "display": {
+        "resBucket": "Penguins_34.swf",
+        "custom": {}
+      }
+    },
+    "pen_21": {
+      "resBucket": "Penguins_21.swf",
+      "kind": "pen_21",
+      "star": 3,
+      "name": "Lấp Lánh",
+      "description": "Toả sáng lấp lánh dù trong đêm tối tĩnh mịch, vẫn phải luôn hy vọng",
+      "display": {
+        "resBucket": "Penguins_21.swf",
+        "custom": {}
+      }
+    },
+    "pen_22": {
+      "resBucket": "Penguins_27.swf",
+      "kind": "pen_22",
+      "star": 2,
+      "name": "Ba M�u",
+      "description": "Tự tin phát biểu ngoại hình mình có thể tham gia “Penguin\u0027s Secret”",
+      "display": {
+        "resBucket": "Penguins_27.swf",
+        "custom": {}
+      }
+    },
+    "pen_23": {
+      "resBucket": "Penguins_49.swf",
+      "kind": "pen_23",
+      "star": 3,
+      "name": "Ăn Giấy",
+      "description": "Cosplay ninja rùa nhưng bị chủ nhà đánh do tưởng nhầm ăn trộm",
+      "display": {
+        "resBucket": "Penguins_49.swf",
+        "custom": {}
+      }
+    },
+    "pen_24": {
+      "resBucket": "Penguins_25.swf",
+      "kind": "pen_24",
+      "star": 3,
+      "name": "Hắc Miu",
+      "description": "Đạt giải oscar với vai chính trong phim “101 con chim cánh cụt”",
+      "display": {
+        "resBucket": "Penguins_25.swf",
+        "custom": {}
+      }
+    },
+    "pen_25": {
+      "resBucket": "Penguins_26.swf",
+      "kind": "pen_25",
+      "star": 3,
+      "name": "Bạch Miu",
+      "description": "Thấy hiền vậy nhưng ghẹo đi thì biết 0...0",
+      "display": {
+        "resBucket": "Penguins_26.swf",
+        "custom": {}
+      }
+    },
+    "pen_26": {
+      "resBucket": "Penguins_38.swf",
+      "kind": "pen_26",
+      "star": 3,
+      "name": "Gấu Trúc",
+      "description": "Động vật ăn trúc, đảm bảo mua về không 1 con cá nào *_*",
+      "display": {
+        "resBucket": "Penguins_38.swf",
+        "custom": {}
+      }
+    },
+    "pen_27": {
+      "resBucket": "Penguins_36.swf",
+      "kind": "pen_27",
+      "star": 4,
+      "name": "Hổ Báo",
+      "description": "Tướng nhỏ võ công cao được cái hay nóng tính ^o^",
+      "display": {
+        "resBucket": "Penguins_36.swf",
+        "custom": {}
+      }
+    },
+    "pen_28": {
+      "resBucket": "Penguins_20.swf",
+      "kind": "pen_28",
+      "star": 3,
+      "name": "MicKey",
+      "description": "Diễn viên nổi tiếng đóng chung với mèo Tom trong Tom \u0026 Mickey.",
+      "display": {
+        "resBucket": "Penguins_20.swf",
+        "custom": {}
+      }
+    },
+    "pen_29": {
+      "resBucket": "Penguins_28.swf",
+      "kind": "pen_29",
+      "star": 3,
+      "name": "Hươu Cao Cổ",
+      "description": "Cổ vừa dài, vừa thon. Xứng đáng là siêu mẫu của loài cánh cụt.",
+      "display": {
+        "resBucket": "Penguins_28.swf",
+        "custom": {}
+      }
+    },
+    "pen_30": {
+      "resBucket": "Penguins_4.swf",
+      "kind": "pen_30",
+      "star": 3,
+      "name": "Đô rê mon",
+      "description": "Chú mèo máy thông minh, vui tính và luôn giúp đỡ người yếu đuối.",
+      "display": {
+        "resBucket": "Penguins_4.swf",
+        "custom": {}
+      }
+    },
+    "pen_31": {
+      "resBucket": "Penguins_5.swf",
+      "kind": "pen_31",
+      "star": 3,
+      "name": "Pikachu",
+      "description": "Chủ dây chuyền cung cấp điện miễn phí nổi tiếng của thế giới.",
+      "display": {
+        "resBucket": "Penguins_5.swf",
+        "custom": {}
+      }
+    },
+    "pen_32": {
+      "resBucket": "Penguins_6.swf",
+      "kind": "pen_32",
+      "star": 5,
+      "name": "Rồng Ba Chân",
+      "description": "Sau 2 giờ, Rồng Ba Chân sẽ di chuyển bằng đuôi. Chú ý xem nha",
+      "display": {
+        "resBucket": "Penguins_6.swf",
+        "custom": {}
+      }
+    },
+    "pen_33": {
+      "resBucket": "Penguins_29.swf",
+      "kind": "pen_33",
+      "star": 3,
+      "name": "Báo Đốm",
+      "description": "Chủ tổ chức “Thà không mặc gì hơn khoác lông báo đốm”  ¬_¬",
+      "display": {
+        "resBucket": "Penguins_29.swf",
+        "custom": {}
+      }
+    },
+    "pen_34": {
+      "resBucket": "Penguins_30.swf",
+      "kind": "pen_34",
+      "star": 3,
+      "name": "Sư Tử",
+      "description": "Lực sĩ thể hình với bụng một múi tròn và tóc bờm sư tử rất lịch lãm",
+      "display": {
+        "resBucket": "Penguins_30.swf",
+        "custom": {}
+      }
+    },
+    "pen_35": {
+      "resBucket": "Penguins_31.swf",
+      "kind": "pen_35",
+      "star": 2,
+      "name": "Bò Sữa",
+      "description": "Cải trang thành bò sữa để vào sống chung với các chim cánh cụt khác.",
+      "display": {
+        "resBucket": "Penguins_31.swf",
+        "custom": {}
+      }
+    },
+    "pen_36": {
+      "resBucket": "Penguins_37.swf",
+      "kind": "pen_36",
+      "star": 3,
+      "name": "Ngựa vằn",
+      "description": "Tay đua nhanh nhất trong cuộc thi \"Cánh cụt đi bộ\" tổ chức hàng năm.",
+      "display": {
+        "resBucket": "Penguins_37.swf",
+        "custom": {}
+      }
+    },
+    "pen_37": {
+      "resBucket": "Penguins_48.swf",
+      "kind": "pen_37",
+      "star": 5,
+      "name": "Sún Răng",
+      "description": "Đây là cơ hội duy nhất! Trốn đi và cầu nguyện nó không ăn cá",
+      "display": {
+        "resBucket": "Penguins_48.swf",
+        "custom": {}
+      }
+    },
+    "pen_38": {
+      "resBucket": "Penguins_50.swf",
+      "kind": "pen_38",
+      "star": 3,
+      "name": "Ăn Gạch",
+      "description": "Hằng ngày được cư dân mạng bó thí cho gạch ăn, để sống qua ngày",
+      "display": {
+        "resBucket": "Penguins_50.swf",
+        "custom": {}
+      }
+    },
+    "pen_39": {
+      "resBucket": "Penguins_51.swf",
+      "kind": "pen_39",
+      "star": 3,
+      "name": "Ăn Mày",
+      "description": "Nghèo đến nổi tự đẻ trứng bán, cũng bị bạn trộm không còn 1 trứng",
+      "display": {
+        "resBucket": "Penguins_51.swf",
+        "custom": {}
+      }
+    },
+    "pen_40": {
+      "resBucket": "Penguins_45.swf",
+      "kind": "pen_40",
+      "star": 5,
+      "name": "Si�u Nh�n",
+      "description": "Cẩn thận nhé bọn ăn trộm trứng, Siêu Nhân - ta tới đây",
+      "display": {
+        "resBucket": "Penguins_45.swf",
+        "custom": {}
+      }
+    },
+    "pen_41": {
+      "resBucket": "Penguins_47.swf",
+      "kind": "pen_41",
+      "star": 4,
+      "name": "Thám Tử",
+      "description": "Có khả năng nguỵ trang toàn thân, riêng bụng mỡ lộ ra thôi ^_^",
+      "display": {
+        "resBucket": "Penguins_47.swf",
+        "custom": {}
+      }
+    },
+    "pen_42": {
+      "resBucket": "Penguins_46.swf",
+      "kind": "pen_42",
+      "star": 4,
+      "name": "Phong C�ch",
+      "description": "Đại diện cho giới trẻ hiện đại tài năng, phong cách năng động, bản lĩnh",
+      "display": {
+        "resBucket": "Penguins_46.swf",
+        "custom": {}
+      }
+    },
+    "pen_43": {
+      "resBucket": "Penguins_8.swf",
+      "kind": "pen_43",
+      "star": 2,
+      "name": "Thu Phục",
+      "description": "Bị banh Poke thu phục nhưng do bụng quá bự nên banh dính luôn vào.",
+      "display": {
+        "resBucket": "Penguins_8.swf",
+        "custom": {}
+      }
+    },
+    "pen_44": {
+      "resBucket": "Penguins_10.swf",
+      "kind": "pen_44",
+      "star": 3,
+      "name": "Qu� �ng",
+      "description": "Chủ chuỗi cửa hàng thức ăn nhanh McPen với món “Trứng cánh cụt ốp la”",
+      "display": {
+        "resBucket": "Penguins_10.swf",
+        "custom": {}
+      }
+    },
+    "pen_45": {
+      "resBucket": "Penguins_39.swf",
+      "kind": "pen_45",
+      "star": 4,
+      "name": "Đồ Bơi",
+      "description": "Mệnh danh là \"nữ hoàng bikini\" với các số đo siêu chuẩn: 60 - 120 – 300",
+      "display": {
+        "resBucket": "Penguins_39.swf",
+        "custom": {}
+      }
+    },
+    "pen_46": {
+      "resBucket": "Penguins_40.swf",
+      "kind": "pen_46",
+      "star": 5,
+      "name": "Mario",
+      "description": "Thợ sửa ống nước nổi tiếng với khả năng chui ống cống và ăn nấm độc",
+      "display": {
+        "resBucket": "Penguins_40.swf",
+        "custom": {}
+      }
+    },
+    "pen_47": {
+      "resBucket": "Penguins_41.swf",
+      "kind": "pen_47",
+      "star": 4,
+      "name": "Phù Thuỷ",
+      "description": "Phù thủy xinh đẹp đóng vai Harry Penguin trong phim ăn khách cùng tên",
+      "display": {
+        "resBucket": "Penguins_41.swf",
+        "custom": {}
+      }
+    },
+    "pen_48": {
+      "resBucket": "Penguins_42.swf",
+      "kind": "pen_48",
+      "star": 4,
+      "name": "Trượt Tuyết",
+      "description": "Vận động viên 2 lần vô địch trong cuộc thi \"Cánh cụt trượt tuyết\"",
+      "display": {
+        "resBucket": "Penguins_42.swf",
+        "custom": {}
+      }
+    },
+    "pen_49": {
+      "resBucket": "Penguins_43.swf",
+      "kind": "pen_49",
+      "star": 5,
+      "name": "Captain",
+      "description": "Vai chính trong siêu phẩm \"Captain Penguin: Where\u0027s my fish?\"",
+      "display": {
+        "resBucket": "Penguins_43.swf",
+        "custom": {}
+      }
+    },
+    "pen_50": {
+      "resBucket": "Penguins_44.swf",
+      "kind": "pen_50",
+      "star": 3,
+      "name": "Đấu Sĩ",
+      "description": "Chiến binh bất khả chiến bại với thành tích ăn 20 con cá trong vòng 1s",
+      "display": {
+        "resBucket": "Penguins_44.swf",
+        "custom": {}
+      }
+    },
+    "pen_51": {
+      "resBucket": "Penguins_35.swf",
+      "kind": "pen_51",
+      "star": 5,
+      "name": "Chim Nhện",
+      "description": "Spider man sau khi bị chim cánh cụt cắn đã biến thành “Chim Nhện”",
+      "display": {
+        "resBucket": "Penguins_35.swf",
+        "custom": {}
+      }
+    },
+    "pen_52": {
+      "resBucket": "Penguins_52.swf",
+      "kind": "pen_52",
+      "star": 4,
+      "name": "Thánh Tăng",
+      "description": "Khi lòng tốt có trong một con chim cánh cụt thì đó chính là Thánh Tăng",
+      "display": {
+        "resBucket": "Penguins_52.swf",
+        "custom": {}
+      }
+    }
+  }
+}

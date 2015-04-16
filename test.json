@@ -1,0 +1,24 @@
+{
+	"$mode" : "map",
+	"$key" : "Item ID",
+	"$value" : {
+	"name" : "#String__Name",
+	"price" : "#int__Price Of Item",
+	"data" : {
+		"weight" : {"$type": "#double", "$xls": "Weight"},
+		"unit" : {"$type": "#String", "$xls": "Weight Unit"},
+		"due_day" : {
+			"start" : "#string__Start Day",
+			"end" : "#string__End Day"
+			}
+		},
+		"prize" : {
+			"$mode" : "dynamic_hmap",
+			"$key" : "Prize#",
+			"$value" : "Par#"
+		},
+		"raw" : "raw_data",
+		"raw2" : 1214,
+		"raw3" : 112134.3
+	}
+}

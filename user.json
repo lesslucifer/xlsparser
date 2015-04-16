@@ -1,0 +1,55 @@
+{
+	"levels" : {
+		"$sheet" : "user-info",
+		"$mode" : "map",
+		"$key" : "@Level",
+		"$value" : {
+			"exp" : "#int__@Total exp",
+			"prize" : {
+				"$mode" : "dynamic_hmap",
+				"$key" : "@Prize#",
+				"$value" : "@Param#"
+			}
+		}
+	},
+	"default_user" : {
+		"$sheet" : "default-user",
+		"level" : "#int__@Level",
+		"fish" : "#int__@Food",
+		"gold" : "#int__@Gold",
+		"coin" : "#int__@Coin",
+		"cote" : {
+			"$mode" : "list_map",
+			"$key" : "@Cote",
+			"$value" : "@Cote"
+		}
+	},
+	"npc" : {
+		"$sheet" : "user-npc",
+		"$mode" : "list_map",
+		"$key" : "@Name",
+		"$value" : {
+			"name" : "@Name",
+			"avatar" : "@Avatar",
+			"level" : "#int__@Level",
+			"fish" : "#int__@Food",
+			"gold" : "#int__@Gold",
+			"coin" : "#int__@Coin",
+			"cote" : {
+				"$mode" : "list_map",
+				"$value" : "@Cote"
+			}
+		}
+	},
+	"inventory" : {
+		"$sheet" : "inventory",
+		"levels" : {
+			"$mode" : "map",
+			"$key" : "#int__@Level",
+			"$value" : {
+				"size" : "#int__@Size",
+				"price" : "#int__@Price"
+			}
+		}
+	}
+}
