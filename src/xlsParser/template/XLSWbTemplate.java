@@ -6,7 +6,7 @@
 package xlsParser.template;
 
 import java.util.Map;
-import xlsParser.XLSWorkbook;
+import xlsParser.*;
 
 /**
  *

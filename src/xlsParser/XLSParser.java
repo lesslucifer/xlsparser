@@ -1,9 +1,11 @@
+package xlsParser;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package xlsParser;
+
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
@@ -24,19 +26,19 @@ import java.util.function.Function;
  * @author Salm
  */
 public class XLSParser {
-    public static <E> E parse(Class<E> clazz) throws Exception
-    {
-        XLSObject objAnn = clazz.getAnnotation(XLSObject.class);
-        if (objAnn == null) throw new IllegalArgumentException(
-                clazz + " must have XLSObject annotation");
-        
-        String file = objAnn.file();
-        if (isEmpty(file)) throw new IllegalArgumentException(
-                clazz + " missing field [file] in XLSObject annotation");
-        
-        XLSWorkbook workbook = XLSReader.read(file);
-        return parse(clazz, workbook);
-    }
+//    public static <E> E parse(Class<E> clazz) throws Exception
+//    {
+//        XLSObject objAnn = clazz.getAnnotation(XLSObject.class);
+//        if (objAnn == null) throw new IllegalArgumentException(
+//                clazz + " must have XLSObject annotation");
+//        
+//        String file = objAnn.file();
+//        if (isEmpty(file)) throw new IllegalArgumentException(
+//                clazz + " missing field [file] in XLSObject annotation");
+//        
+//        XLSWorkbook workbook = XLSReader.read(file);
+//        return parse(clazz, workbook);
+//    }
     
     public static <E> E parse(Class<E> clazz, XLSWorkbook workbook)
             throws Exception
@@ -361,15 +363,10 @@ public class XLSParser {
                 Integer hFieldIndex = record.getHeaderIndex(hField);
                 Integer hParIndex = record.getHeaderIndex(hPar);
                 
-                if (hFieldIndex == null || hParIndex == null)
-                {
-                    break;
-                }
-                
                 header.put(field, hFieldIndex);
                 header.put(par, hParIndex);
                 
-                ret.add(new XLSRecord(header, record.getContents()));
+                ret.add(new BaseXLSRecord(header, record.getContents()));
                 ++h;
             } while (true);
         }

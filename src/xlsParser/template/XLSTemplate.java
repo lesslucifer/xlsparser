@@ -74,6 +74,8 @@ abstract class XLSTemplate {
                     return new XLSDynamicMapTemplate(parent, jsObj);
                 case DYNAMIC_HMAP:
                     return new XLSDynamicHMapTemplate(parent, jsObj);
+                case HARRAY:
+                    return new XLSHArrayTemplate(parent, jsObj);
                 case VAR:
                     return new XLSVarTemplate(parent, jsObj);
                 default:

@@ -10,9 +10,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import xlsParser.Util;
-import xlsParser.XLSField;
-import xlsParser.XLSParser;
-import xlsParser.XLSRecord;
+import xlsParser.*;
 
 /**
  *

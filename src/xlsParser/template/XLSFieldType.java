@@ -21,13 +21,13 @@ enum XLSFieldType {
     INT {
         @Override
         public Object parse(XLSFieldTemplate desc, XLSIterator ite) {
-            return Integer.valueOf(getFirst(desc, ite));
+            return Double.valueOf(getFirst(desc, ite)).intValue();
         }
     },
     LONG {
         @Override
         public Object parse(XLSFieldTemplate desc, XLSIterator ite) {
-            return Long.valueOf(getFirst(desc, ite));
+            return Double.valueOf(getFirst(desc, ite)).longValue();
         }
     },
     DOUBLE {

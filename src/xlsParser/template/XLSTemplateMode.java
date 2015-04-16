@@ -15,6 +15,7 @@ enum XLSTemplateMode {
     LIST_MAP,
     DYNAMIC_MAP,
     DYNAMIC_HMAP,
+    HARRAY,
     VAR;
     
     public static XLSTemplateMode parse(String s)

@@ -5,9 +5,9 @@
  */
 package xlsconfig;
 
+import xlsParser.*;
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;
-import xlsParser.*;
 
 /**
  *
@@ -39,7 +39,7 @@ public class BaseXLSConfigurator<E> extends AbstractXLSConfigurator {
     
     @Override
     public void runConfig() throws Exception {
-        XLSWorkbook workbook = XLSReader.read(getInPath() + "//" + file);
+        XLSWorkbook workbook = xlsParser.jxlimpl.JXLReader.READER.read(getInPath() + "//" + file);
 
         XLSWorkbookObject annWB = clazz.getAnnotation(XLSWorkbookObject.class);
         E e;

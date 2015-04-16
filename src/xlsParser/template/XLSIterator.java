@@ -7,9 +7,7 @@ package xlsParser.template;
 
 import java.util.List;
 import xlsParser.Util;
-import xlsParser.XLSRecord;
-import xlsParser.XLSSheet;
-import xlsParser.XLSWorkbook;
+import xlsParser.*;
 
 /**
  *

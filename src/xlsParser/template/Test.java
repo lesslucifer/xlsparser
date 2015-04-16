@@ -6,12 +6,8 @@
 package xlsParser.template;
 
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
-import java.util.LinkedHashMap;
 import jxl.read.biff.BiffException;
-import xlsParser.XLSReader;
-import xlsParser.XLSWorkbook;
 
 /**
  *
