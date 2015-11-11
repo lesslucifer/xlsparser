@@ -21,7 +21,9 @@ enum XLSFieldType {
     INT {
         @Override
         public Object parse(XLSFieldTemplate desc, XLSIterator ite) {
-            return Double.valueOf(getFirst(desc, ite)).intValue();
+            String data = getFirst(desc, ite);
+            data = data.replaceAll(",", "");
+            return Double.valueOf(data).intValue();
         }
     },
     LONG {

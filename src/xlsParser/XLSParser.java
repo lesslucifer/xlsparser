@@ -363,6 +363,9 @@ public class XLSParser {
                 Integer hFieldIndex = record.getHeaderIndex(hField);
                 Integer hParIndex = record.getHeaderIndex(hPar);
                 
+                if (hFieldIndex == null || hParIndex == null)
+                    break;
+                
                 header.put(field, hFieldIndex);
                 header.put(par, hParIndex);
                 

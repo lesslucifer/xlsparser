@@ -21,7 +21,8 @@ import xlsParser.*;
  * @author vinova
  */
 public class SSReader implements XLSReader {
-@Override
+    
+    @Override
     public XLSWorkbook read(String file) throws Exception
     {
         Workbook workbook = null;
@@ -55,8 +56,6 @@ public class SSReader implements XLSReader {
         return new BaseXLSWorkbook(xlsSheets);
     }
     
-    
-    
     private XLSSheet createSheet(String name, Sheet sheet)
     {
         List<Row> rows = new ArrayList(sheet.getPhysicalNumberOfRows());
@@ -72,7 +71,7 @@ public class SSReader implements XLSReader {
                 + " (for header) [" + name + "]");
         }
         
-        String[] header = parseRow(sheet.getRow(0));
+        String[] header = parseRow(sheet.getRow(0), 0);
         Map<String, Integer> headerMap = new HashMap(header.length);
         for (int i = 0; i < header.length; ++i)
         {
@@ -112,14 +111,15 @@ public class SSReader implements XLSReader {
         return "";
     }
     
-    private String[] parseRow(Row row)
+    private String[] parseRow(Row row, int n)
     {
-        String[] data = new String[row.getPhysicalNumberOfCells()];
+        if (n <= 0) n = row.getPhysicalNumberOfCells();
+        
+        String[] data = new String[n];
         for (int i = 0; i < data.length; ++i)
         {
             Cell c = row.getCell(i);
             data[i] = cellToString(c);
-            
         }
         
         return data;
@@ -127,7 +127,7 @@ public class SSReader implements XLSReader {
     
     private XLSRecord createRecord(Map<String, Integer> headerMap, Row row)
     {
-        return new BaseXLSRecord(headerMap, parseRow(row));
+        return new BaseXLSRecord(headerMap, parseRow(row, headerMap.size()));
     }
     
     public static final SSReader READER = new SSReader();

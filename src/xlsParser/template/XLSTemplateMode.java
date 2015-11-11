@@ -15,6 +15,7 @@ enum XLSTemplateMode {
     LIST_MAP,
     DYNAMIC_MAP,
     DYNAMIC_HMAP,
+    ARRAY,
     HARRAY,
     VAR;
     

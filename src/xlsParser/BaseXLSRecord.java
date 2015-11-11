@@ -17,7 +17,7 @@ public class BaseXLSRecord implements XLSRecord {
 
     public BaseXLSRecord(Map<String, Integer> headerMap, String[] rows) {
         this.headerMap = headerMap;
-        contents = new String[headerMap.size()];
+        contents = new String[Math.max(rows.length, headerMap.size())];
         System.arraycopy(rows, 0, contents, 0, rows.length);
         for (int i = rows.length; i < headerMap.size(); ++i)
         {
@@ -51,7 +51,7 @@ public class BaseXLSRecord implements XLSRecord {
     }
     
     @Override
-    public int getHeaderIndex(String header)
+    public Integer getHeaderIndex(String header)
     {
         return headerMap.get(header);
     }

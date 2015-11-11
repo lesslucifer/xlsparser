@@ -67,8 +67,15 @@ class XLSHArrayTemplate extends XLSTemplate {
             for (Map.Entry<String, String> entry : this.export.entrySet()) {
                 String field = String.format(entry.getValue(), rs.size() + 1);
 
-                String f = r.get(field);
-                if (f.isEmpty())
+                Integer index = r.getHeaderIndex(field);
+                if (index == null)
+                {
+                    hasField = false;
+                    break;
+                }
+                
+                String f = r.get(index);
+                if (f == null || f.isEmpty())
                 {
                     hasField = false;
                     break;

@@ -15,7 +15,7 @@ public interface XLSRecord {
 
     String get(String field);
     String get(int index);
-    int getHeaderIndex(String header);
+    Integer getHeaderIndex(String header);
     String[] getContents();
     int size();
 }
